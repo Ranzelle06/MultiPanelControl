@@ -1,0 +1,9 @@
+I:\C# Practices\MultiPanelSample\MultiPanelSample\bin\Debug\MultiPanelSample.exe.config
+I:\C# Practices\MultiPanelSample\MultiPanelSample\bin\Debug\MultiPanelSample.exe
+I:\C# Practices\MultiPanelSample\MultiPanelSample\bin\Debug\MultiPanelSample.pdb
+I:\C# Practices\MultiPanelSample\MultiPanelSample\bin\Debug\MultiPanelControl.dll
+I:\C# Practices\MultiPanelSample\MultiPanelSample\obj\Debug\MultiPanelSample.Form1.resources
+I:\C# Practices\MultiPanelSample\MultiPanelSample\obj\Debug\MultiPanelSample.Properties.Resources.resources
+I:\C# Practices\MultiPanelSample\MultiPanelSample\obj\Debug\MultiPanelSample.csproj.GenerateResource.Cache
+I:\C# Practices\MultiPanelSample\MultiPanelSample\obj\Debug\MultiPanelSample.exe
+I:\C# Practices\MultiPanelSample\MultiPanelSample\obj\Debug\MultiPanelSample.pdb
